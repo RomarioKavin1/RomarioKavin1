@@ -37,7 +37,7 @@ I'm a passionate developer working at the intersection of design and technology.
 
 ## 📈 GitHub Stats
 
-![RomarioKavin1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomarioKavin1&theme=merko&hide_border=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RomarioKavin1?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 ![RomarioKavin1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomarioKavin1&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 ## 🌐 Connect With Me
