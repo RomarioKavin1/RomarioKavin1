@@ -37,8 +37,8 @@ I'm a passionate developer working at the intersection of design and technology.
 
 ## 📈 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RomarioKavin1?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-![RomarioKavin1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomarioKavin1&theme=merko&show_icons=true&hide_border=true&layout=compact)
+![RomarioKavin1's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomarioKavin1&theme=merko&rank_icon=github&line_height=28&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomarioKavin1&layout=donut&theme=merko&hide_border=true)
 
 ## 🌐 Connect With Me
 
